@@ -13,12 +13,12 @@ This project performs **face detection** and uses **pre-trained deep learning mo
 
 ---
 
-## 📁 Project Structure
-├── models/ # Pre-trained deep learning models
-├── src/ # Source code scripts
-├── test_image/ # Sample images for testing
-├── LICENSE # Project license
-└── README.md # Project documentation
+##  Project Structure
+- models/ # Pre-trained deep learning models
+- src/ # Source code scripts
+- test_image/ # Sample images for testing
+- LICENSE # Project license
+-  README.md # Project documentation
 
 ------
 ## 🚀 Setup & Installation
